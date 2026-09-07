@@ -51,11 +51,18 @@ function App() {
         </ul>
         
         <div className="social-icons">
+<<<<<<< HEAD
           <a href="https://www.linkedin.com/in/potharlanka-naga-keerthi/" target="_blank">
             <FaLinkedin />
           </a>
           <a href="https://github.com/Keerthi9092" target="_blank">
           
+=======
+          <a href="https://linkedin.com/in/potharlanka-naga-keerthi-b6b209257" target="_blank">
+            <FaLinkedin />
+          </a>
+          <a href="https://github.com/Keerthi9092" target="_blank">
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
             <FaGithub />
           </a>
         </div>
@@ -69,13 +76,22 @@ function App() {
         <p>Pursuing my B.Tech Degree in CSE at KL University</p>
 
         <div className="buttons">
+<<<<<<< HEAD
           <a href="https://www.linkedin.com/in/potharlanka-naga-keerthi/" className="btn">LinkedIn</a>
           <a href="https://github.com/Keerthi9092" className="btn">My Works</a>
+=======
+          <a href="https://linkedin.com/in/potharlanka-naga-keerthi-b6b209257" className="btn">LinkedIn</a>
+          <a href="#projects" className="btn">My Works</a>
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
         </div>
       </section>
       <section id="about" className="about-container">
   <div className="about-image">
+<<<<<<< HEAD
     <img src="images/keerthi image 1.png" alt="Potharlanka Naga Keerthi"/>
+=======
+    <img src="/images/profile.jpg" alt="Potharlanka Naga Keerthi"/>
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
   </div>
   <div className="about-details">
     <h2>ABOUT ME</h2>
@@ -93,7 +109,11 @@ function App() {
       <p><strong>Interests:</strong> Coding, Reading, Traveling</p>
 
       <div className="buttons">
+<<<<<<< HEAD
         <a href="https://www.linkedin.com/in/potharlanka-naga-keerthi/" className="btn">LinkedIn</a>
+=======
+        <a href="https://linkedin.com/in/potharlanka-naga-keerthi-b6b209257" className="btn">LinkedIn</a>
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
         <a href="#projects" className="btn">Projects Completed</a>
       </div>
     </div>
@@ -110,7 +130,11 @@ function App() {
         <div className="resume-box">
           <h2>Education</h2>
           <p><b>K L University</b> — B.Tech in CSE (2022–2026)</p>
+<<<<<<< HEAD
           <p>CGPA: 9.13</p>
+=======
+          <p>CGPA: 9.15</p>
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
 
           <h2>Certifications</h2>
           <ul>
@@ -122,7 +146,11 @@ function App() {
           </ul>
 
           <a
+<<<<<<< HEAD
             href="https://drive.google.com/file/d/1uWCm1FbSClb4DO4pcG6yUz3beFMJh4Sc/view?usp=sharing"
+=======
+            href="https://drive.google.com/file/d/1DiogwivAHSb56lOcGP_Z7aVIohUs2IIF/view?usp=sharing"
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
             target="_blank"
             rel="noreferrer"
             className="cv-button"
@@ -140,40 +168,65 @@ function App() {
     <div className="achievement-card">
       <p className="year">2024</p>
       <h3 className="achievement-title">AWS Certified Cloud Practitioner</h3>
+<<<<<<< HEAD
       <img src="images/AWS.jpg" alt="AWS Certificate" className="achievement-img" />
+=======
+      <img src="/images/aws.jpg" alt="AWS Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     <div className="achievement-card">
       <p className="year">2024</p>
       <h3 className="achievement-title">Red Hat Enterprise Application Developer Certification</h3>
+<<<<<<< HEAD
       <img src="images/RedHat.jpg" alt="Red Hat Certificate" className="achievement-img" />
+=======
+      <img src="/images/red.jpg" alt="Red Hat Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     
     <div className="achievement-card">
       <p className="year">2024</p>
+<<<<<<< HEAD
       <h3 className="achievement-title">Salesforce AI Associate</h3>
       <img src="images/Salesforce.jpg" alt="Salesforce Certificate" className="achievement-img" />
+=======
+      <h3 className="achievement-title">Salceforce AI Associate</h3>
+      <img src="/images/ai.jpg" alt="AWS Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     
     <div className="achievement-card">
       <p className="year">2024</p>
       <h3 className="achievement-title">Linguaskills</h3>
+<<<<<<< HEAD
       <img src="images/Linguaskills.jpg" alt="Linguaskills Certificate" className="achievement-img" />
+=======
+      <img src="/images/lingua.jpg" alt="AWS Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     
     <div className="achievement-card">
       <p className="year">2025</p>
       <h3 className="achievement-title">Hack2skill-Certificate</h3>
+<<<<<<< HEAD
       <img src="images/Hack2skill-Certificate.png" alt="Hack2skill Certificate" className="achievement-img" />
+=======
+      <img src="/images/Hack2skill.png" alt="AWS Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     <div className="achievement-card">
       <p className="year">2024</p>
             <h3 className="achievement-title">AWS Certified Cloud Practitioner Badge</h3>
+<<<<<<< HEAD
       <img src="images/aws-certified-cloud-practitioner_badge.png" alt="AWS Certificate" className="achievement-img" />
+=======
+      <img src="/images/aws1.png" alt="AWS Certificate" className="achievement-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
 
@@ -187,7 +240,11 @@ function App() {
     
     {/* ✅ Project 1 */}
     <div className="project-card">
+<<<<<<< HEAD
       <img src="images/online_food_system.png" alt="Online Food" className="project-img" />
+=======
+      <img src="\images\food2.jpg" alt="Online Food" className="project-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
       <div className="project-info">
         <h3 className="project-title">Online Food Ordering System</h3>
         <p className="project-description">
@@ -202,7 +259,11 @@ A web application built using the MERN stack for ordering food online, managing 
 
     {/* ✅ Project 2 */}
     <div className="project-card">
+<<<<<<< HEAD
       <img src="images/smart_calculator.png" alt="SmartCalculator" className="project-img" />
+=======
+      <img src="\images\smart1.jpg" alt="SmartCalculator" className="project-img" />
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
       <div className="project-info">
         <h3 className="project-title">A Smart Calculator Controlled by Hand Gestures</h3>
         <p className="project-description">
@@ -215,6 +276,7 @@ GestureSmart is an intelligent calculator that allows users to perform mathemati
       </div>
     </div>
 
+<<<<<<< HEAD
 
 
     {/* ✅ Project 3 */}
@@ -235,6 +297,8 @@ A web application built using Python, Flask, and MySQL for creating, managing, a
 
 
 
+=======
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
   </div>
 </section>
 
@@ -246,7 +310,11 @@ A web application built using Python, Flask, and MySQL for creating, managing, a
     <div className="contact-box">
       <span className="icon">📍</span>
       <h3>ADDRESS</h3>
+<<<<<<< HEAD
       <p>Vijayawada, Andhra Pradesh, India</p>
+=======
+      <p>VIJAYAWADA, India</p>
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
     </div>
 
     <div className="contact-box">
@@ -265,7 +333,11 @@ A web application built using Python, Flask, and MySQL for creating, managing, a
       <span className="icon">🌐</span>
       <h3>DOWNLOAD RESUME</h3>
       <a 
+<<<<<<< HEAD
         href="https://drive.google.com/file/d/1uWCm1FbSClb4DO4pcG6yUz3beFMJh4Sc/view?usp=sharing"
+=======
+        href="https://drive.google.com/file/d/1DiogwivAHSb56lOcGP_Z7aVIohUs2IIF/view"
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
         target="_blank"
         rel="noreferrer"
         className="resume-btn"
@@ -289,7 +361,11 @@ A web application built using Python, Flask, and MySQL for creating, managing, a
     <p className="social">
       Find me on 
       <a 
+<<<<<<< HEAD
         href="https://www.linkedin.com/in/potharlanka-naga-keerthi/"
+=======
+        href="https://linkedin.com/in/potharlanka-naga-keerthi-b6b209257"
+>>>>>>> 3bccea33219785ead44bb5ef994673df9220947d
         className="linkedin"
       >
         {" "}LinkedIn
