@@ -140,7 +140,7 @@ function App() {
     <div className="achievement-card">
       <p className="year">2024</p>
       <h3 className="achievement-title">AWS Certified Cloud Practitioner</h3>
-      <img src="public/images/aws-certified-cloud-practitioner_badge.png" alt="AWS Certificate" className="achievement-img" />
+      <img src="public/images/AWS.jpg" alt="AWS Certificate" className="achievement-img" />
     </div>
 
     <div className="achievement-card">
