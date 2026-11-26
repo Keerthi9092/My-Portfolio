@@ -66,7 +66,7 @@ function App() {
         <h3>HELLO!</h3>
         <h1>I'm <span className="highlight">Potharlanka Naga Keerthi</span></h1>
         <h2>{text}<span className="cursor">|</span></h2>
-        <p>Pursuing my B.Tech Degree in CSE at KL University</p>
+        <p>Recently Completed my B.Tech(Hons) Degree in CSE at KL University</p>
 
         <div className="buttons">
           <a href="https://www.linkedin.com/in/potharlanka-naga-keerthi/" className="btn">LinkedIn</a>
@@ -80,7 +80,7 @@ function App() {
   <div className="about-details">
     <h2>ABOUT ME</h2>
       <p>
-        A Computer Science undergraduate with problem-solving skills and project experience, 
+        A Computer Science and Engineering undergraduate with problem-solving skills and project experience, 
         looking forward to seeking an opportunity in the Software Engineering industry while 
         contributing to a dynamic team.
       </p>
@@ -109,7 +109,7 @@ function App() {
 
         <div className="resume-box">
           <h2>Education</h2>
-          <p><b>K L University</b> — B.Tech in CSE (2022–2026)</p>
+          <p><b>K L University</b> — B.Tech(Hons) in CSE (2022–2026)</p>
           <p>CGPA: 9.13</p>
 
           <h2>Certifications</h2>
@@ -299,7 +299,7 @@ A web application built using Python, Flask, and MySQL for creating, managing, a
 </section>
 
 {/* ✅ Footer */}
-<footer>© 2025 Potharlanka Naga Keerthi | All Rights Reserved</footer>
+<footer>© 2026 Potharlanka Naga Keerthi | All Rights Reserved</footer>
 </>
 );
 }
